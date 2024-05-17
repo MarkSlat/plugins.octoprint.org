@@ -8,7 +8,7 @@ authors:
 - MarkSlat
 license: AGPLv3
 
-date: 2024-05-16
+date: 2024-05-17
 
 homepage: https://github.com/MarkSlat/OctoPrint-Hologram
 source: https://github.com/MarkSlat/OctoPrint-Hologram
