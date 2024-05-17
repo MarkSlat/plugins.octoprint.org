@@ -12,7 +12,7 @@ date: 2024-05-16
 
 homepage: https://github.com/MarkSlat/OctoPrint-Hologram
 source: https://github.com/MarkSlat/OctoPrint-Hologram
-archive: https://github.com/MarkSlat/OctoPrint-Hologram/archive/master.zip
+archive: https://github.com/MarkSlat/OctoPrint-Hologram/archive/main.zip
 
 tags:
 - ui
